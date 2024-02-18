@@ -45,7 +45,7 @@ help:
 	@echo '                                                                          '
 
 template:
-	cd ../pelican-themes/Flex; gulp default; cd -
+	cd ./themes/Flex; gulp default; cd -
 
 html: template
 	"$(PELICAN)" "$(INPUTDIR)" -o "$(OUTPUTDIR)" -s "$(CONFFILE)" $(PELICANOPTS)

@@ -21,7 +21,7 @@ In summary, the research conducted by the ECS group can be categorized into thre
 ### Professors and Researchers
 | ![AAcquaviva]({attach}/images/people/aacquaviva.png) | ![ABartolini]({attach}/images/people/abartolini.png) | ![FBarchi]({attach}/images/people/fbarchi.png) | 
 |---|---|---|
-| Prof. Andrea Acquaviva | Prof. Andrea Bartolini | Dr. Francesco Barchi |
+| Prof. Andrea Acquaviva | Prof. Andrea Bartolini | [Dr. Francesco Barchi](https://www.unibo.it/sitoweb/francesco.barchi) |
 
 ### Postdoc Research Assistants
 

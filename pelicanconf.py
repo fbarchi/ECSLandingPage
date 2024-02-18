@@ -50,7 +50,8 @@ INDEX_SAVE_AS = 'blog.html'
 
 # https://github.com/alexandrevicenzi/Flex/tree/e63fdae267319fdfb5a0788fe2de9e75ce063569
 # THEME = "Flex"
-THEME = "../pelican-themes/Flex"
+# THEME = "../pelican-themes/Flex"
+THEME = "./themes/Flex"
 
 # https://github.com/pelican-plugins/render-math
 MATH_JAX = {'responsive':True,}
